@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhiraj Kumar</h1>
 <h3 align="center">B-Tech in Electronics and Communication Engineering  [2023-2027].</h3>
-
+<p><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt=""></p>
 <p> <h1># 💫 About Me:</h1>
 🎓 Education: Pursuing a B-Tech degree in Electronics and Communication Engineering (ECE).<br>💻 Skills: Proficient in Python, C, Java, Data Structures and Algorithms (DSA), HTML, CSS, and Tailwind CSS.<br>🌐 Interests: Web Development, Embedded Systems, and IoT. I enjoy building solutions that bridge the gap between software and hardware.<br>👥 Involvement: Actively seeking opportunities for internships and keen on contributing to open-source projects.<br>🎯 Goals: Eager to enhance my skills, work on impactful projects, and collaborate with the developer community.</p>
 
