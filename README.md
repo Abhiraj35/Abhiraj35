@@ -24,7 +24,7 @@
 - 🌱 Currently diving into **React** and frontend frameworks  
 - 💬 Ask me about **DSA, GSAP animations**, and **interactive UIs**  
 - 📫 Reach out to me at **royabhi2406@gmail.com**  
-- 🔗 Check out my [**Portfolio Website**](https://portfolio-wesite-five.vercel.app/)
+- 🔗 Check out my [**Portfolio Website**](https://abhiraj01.vercel.app/)
 
 ---
 
