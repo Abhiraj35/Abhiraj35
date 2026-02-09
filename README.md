@@ -12,9 +12,9 @@
   </a>
 </p>
 
-## 💫 About Me  
+## About Me  
 
-I'm an **Electronics and Communication Engineering (ECE)** undergraduate who enjoys building projects that connect **software with real-world applications**.  
+I'm a 3rd Year undergraduate, who enjoys building projects that connect **software with real-world applications**.  
 
 I work with **Python**, **Java**, and have a strong foundation in **Data Structures & Algorithms**.
 My interests lie in **Web Development** and AI.  
@@ -40,7 +40,7 @@ I'm actively looking for **internship opportunities**, open-source collaboration
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,tailwind,nodejs,mongodb,git,docker" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,tailwind,next,nodejs,mongodb,git,docker" />
   <img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" width="48" />
 </p>
 
