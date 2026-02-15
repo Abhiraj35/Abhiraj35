@@ -16,12 +16,12 @@
 
 I'm a 3rd Year undergraduate, who enjoys building projects that connect **software with real-world applications**.  
 
-I work with **Python**, **Java**, and have a strong foundation in **Data Structures & Algorithms**.
+I work with  **JavaScript**, **Java**, **Python**, and have a strong foundation in **Data Structures & Algorithms**.
 My interests lie in **Web Development** and AI.  
 
 I'm actively looking for **internship opportunities**, open-source collaborations, and projects that challenge me to grow as a developer.  
 
- My goal is simple: **build impactful projects, improve every day, and contribute to the tech community.** 
+ My goal is simple: **build impactful projects, improve every day, and contribute to the tech community.**
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
@@ -44,9 +44,5 @@ I'm actively looking for **internship opportunities**, open-source collaboration
   <img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" width="48" />
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiraj35&show_icons=true&locale=en&layout=compact" alt="abhiraj35" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiraj35&show_icons=true&locale=en" alt="abhiraj35" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiraj35&" alt="abhiraj35" /></p>
