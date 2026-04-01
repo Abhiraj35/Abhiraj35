@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=70&color=FFFFFF&center=true&vCenter=true&width=600&height=150&lines=ABHIRAJ&repeat=false&runonce=true" alt="Nishant" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=70&color=FFFFFF&center=true&vCenter=true&width=600&height=150&lines=ABHIRAJ&repeat=false&runonce=true" alt="Abhiraj" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Architect-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Role" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Role" />
 </p>
 
 <p align="center">
