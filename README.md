@@ -6,11 +6,6 @@
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Role" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Abhiraj35">
-    <img src="https://img.shields.io/github/followers/Abhiraj35?label=Follow%20the%20Journey&style=for-the-badge&color=7aa2f7&logo=github" />
-  </a>
-</p>
 
 ## About Me  
 
@@ -45,4 +40,4 @@ I'm actively looking for **internship opportunities**, open-source collaboration
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiraj35&" alt="abhiraj35" /></p>
+
