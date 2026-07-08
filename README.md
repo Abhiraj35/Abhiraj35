@@ -7,27 +7,59 @@
 </p>
 
 
-## About Me  
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I'm a 3rd Year undergraduate, who enjoys building projects that connect **software with real-world applications**.  
+<h2>👨‍💻 About Me</h2>
 
-I work with  **JavaScript**, **Java**, **Python**, and have a strong foundation in **Data Structures & Algorithms**.
-My interests lie in **Web Development** and AI.  
+Yup! I'm a <b>Full Stack Developer</b>. Big deal, right? But wait... there's more! I'm not just any developer,
+I love building solutions and solving problems.<br><br>
 
-I'm actively looking for **internship opportunities**, open-source collaborations, and projects that challenge me to grow as a developer.  
+I enjoy crafting websites with
+<b>JavaScript, TypeScript, Java, and Python</b>, and my weapon of choice for full-stack builds is
+<b>React, Next.js, and Node.js</b>.<br><br>
 
- My goal is simple: **build impactful projects, improve every day, and contribute to the tech community.**
+Whether it's an open-source dev tool that saves someone an hour of setup,
+or an AI-powered app that automates the boring stuff -
+if it solves a real problem, I'm building it.<br><br>
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+Underneath the frontend polish is a solid
+<b>DSA foundation</b>, sharpened by constantly picking apart new tech stacks
+and rebuilding them from scratch just to understand <i>why</i> they work.<br><br>
+
+<b>Right now:</b> actively looking for a
+<b>Software Engineering Internship</b> - a team that ships fast,
+values clean engineering, and won't mind someone who asks "why"
+a little too often.
+
+</td>
+
+<td width="40%" valign="top">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/abhiraj kumar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://abhiraj01.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.leetcode.com/__abhiraj_24_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+
+  <a href="https://linkedin.com/in/abhiraj01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/Abhiraj35" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="mailto:abhirajkumar01.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
