@@ -33,11 +33,145 @@ I'm actively looking for **internship opportunities**, open-source collaboration
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,tailwind,next,nodejs,mongodb,git,docker" />
-  <img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" width="48" />
-</p>
+## 💻 Tech Stack
 
+<table>
+<tr>
+<td align="center">
+<a href="https://docs.oracle.com/en/java/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+</a><br>Java
+</td>
 
+<td align="center">
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+</a><br>JavaScript
+</td>
+
+<td align="center">
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+</a><br>TypeScript
+</td>
+
+<td align="center">
+<a href="https://docs.python.org/3/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+</a><br>Python
+</td>
+
+<td align="center">
+<a href="https://en.cppreference.com/w/" target="_blank">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+</a><br>C++
+</td>
+
+<td align="center">
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+</a><br>HTML5
+</td>
+
+<td align="center">
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+</a><br>CSS3
+</td>
+
+<td align="center">
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+</a><br>React
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://nextjs.org/docs" target="_blank">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+</a><br>Next.js
+</td>
+
+<td align="center">
+<a href="https://tailwindcss.com/docs" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+</a><br>Tailwind
+</td>
+
+<td align="center">
+<a href="https://nodejs.org/docs/latest/api/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+</a><br>Node.js
+</td>
+
+<td align="center">
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+</a><br>Express
+</td>
+
+<td align="center">
+<a href="https://www.postgresql.org/docs/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+</a><br>PostgreSQL
+</td>
+
+<td align="center">
+<a href="https://www.mongodb.com/docs/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+</a><br>MongoDB
+</td>
+
+<td align="center">
+<a href="https://redis.io/docs/" target="_blank">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+</a><br>Redis
+</td>
+
+<td align="center">
+<a href="https://docs.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+</a><br>Docker
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://git-scm.com/doc" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+</a><br>Git
+</td>
+
+<td align="center">
+<a href="https://docs.github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+</a><br>GitHub
+</td>
+
+<td align="center">
+<a href="https://docs.github.com/actions" target="_blank">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+</a><br>Actions
+</td>
+
+<td align="center">
+<a href="https://learning.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+</a><br>Postman
+</td>
+
+<td align="center">
+<a href="https://vercel.com/docs" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+</a><br>Vercel
+</td>
+
+<td align="center">
+<a href="https://docs.netlify.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+</a><br>Netlify
+</td>
+</tr>
+</table>
 
