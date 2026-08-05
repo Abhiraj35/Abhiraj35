@@ -21,13 +21,6 @@ I enjoy crafting websites with
 <b>JavaScript, TypeScript, Java, and Python</b>, and my weapon of choice for full-stack builds is
 <b>React, Next.js, and Node.js</b>.<br><br>
 
-Whether it's an open-source dev tool that saves someone an hour of setup,
-or an AI-powered app that automates the boring stuff -
-if it solves a real problem, I'm building it.<br><br>
-
-Underneath the frontend polish is a solid
-<b>DSA foundation</b>, sharpened by constantly picking apart new tech stacks
-and rebuilding them from scratch just to understand <i>why</i> they work.<br><br>
 
 <b>Right now:</b> actively looking for a
 <b>Software Engineering Internship</b> - a team that ships fast,
