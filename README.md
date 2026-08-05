@@ -13,8 +13,9 @@
 
 <h2>👨‍💻 About Me</h2>
 
-Yup! I'm a <b>Full Stack Developer</b>. Big deal, right? But wait... there's more! I'm not just any developer,
-I love building solutions and solving problems.<br><br>
+Yup, I’m a **Full Stack Developer**. I build things, break things, fix things, and then pretend that was the plan all along 🙂.
+
+I love solving problems, creating useful products, and writing code that future me will hopefully not complain about.
 
 I enjoy crafting websites with
 <b>JavaScript, TypeScript, Java, and Python</b>, and my weapon of choice for full-stack builds is
